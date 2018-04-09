@@ -133,6 +133,7 @@ public class ChuckNorrisQuotes {
         this.quotes.add("There are no such things as tornadoes. Chuck Norris just hates trailer parks.");
         this.quotes.add("Chuck Norris is the only man who has, literally, beaten the odds. With his fists.");
         this.quotes.add("Chuck Norris had thoughts to kill his wife many times  but he has never thought to file a divorce.");
+        this.quotes.add("Chuck Norris has a knowledge how to play on grand piano, but he hates gitars because there is no room for pocker.");
 
     }
 
