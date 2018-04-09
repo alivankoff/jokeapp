@@ -132,7 +132,7 @@ public class ChuckNorrisQuotes {
         this.quotes.add("Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.");
         this.quotes.add("There are no such things as tornadoes. Chuck Norris just hates trailer parks.");
         this.quotes.add("Chuck Norris is the only man who has, literally, beaten the odds. With his fists.");
-        this.quotes.add("Chuck Norris thinks to kill his wife every second evering when he comes back home after his work but he has never thought to file a devorce.");
+        this.quotes.add("Chuck Norris had thoughts to kill his wife many times  but he has never thought to file a divorce.");
 
     }
 
